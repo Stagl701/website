@@ -38,7 +38,18 @@ ul, ol, dl
     margin: 15px 25px;
     line-height: 2.0em;
 }
-
+kl
+{
+    text-align: justify;
+    font-size: 15px;
+    line-height: 1.5em;
+}
+ttl
+{
+    text-align: center;
+    font-size: 25px;
+    line-height: 1.7em;
+}
 ol { margin-left: 30px; }
 
 ul { list-style-type: square; }
@@ -60,9 +71,15 @@ ul { list-style-type: square; }
     padding: 4px;
     display: block;
     position: relative;
-    margin: -6px 6px 6px -6px;
+    margin-left: auto;
+    margin-right: auto;
     background-color: #ffffff;
     border: 1px solid #a9a9a9;
+}
+
+#images
+{
+    text-align: center;
 }
 
 .drop-shadow p
