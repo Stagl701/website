@@ -50,6 +50,9 @@ ttl
     font-size: 25px;
     line-height: 1.7em;
 }
+table, th, td {
+    border: 1px solid black;
+}
 ol { margin-left: 30px; }
 
 ul { list-style-type: square; }
